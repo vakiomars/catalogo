@@ -1,6 +1,6 @@
 ************************Introducción*****************************
 
-Este repositorio lo he creado para compartirle la idea de CRUD que he tenido. Decido hacerlo en python ya que me parece mas facil, que Java.
+Este repositorio lo he creado para compartirles la idea de CRUD que he tenido. Decido hacerlo en python ya que me parece mas facil, que Java.
 Al principio solo se maneja a través de consola, ya que considero que es mas facil crear todo el CRUD como back-end
 y luego crearle una vista front a cada funcionalidad.
 Es solamente una idea, no estoy diciendo que debe ser así.
