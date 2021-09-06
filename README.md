@@ -5,7 +5,7 @@ Al principio solo se maneja a través de consola, ya que considero que es mas fa
 y luego crearle una vista front a cada funcionalidad.
 Es solamente una idea, no estoy diciendo que debe ser así.
 
-Por el momento tenemos existen dos clases:
+Por el momento existen dos clases:
 
 1. Clase Producto:
 
